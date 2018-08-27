@@ -1,2 +1,2 @@
-# checkio
+# Checkio
 Task solving using Python
